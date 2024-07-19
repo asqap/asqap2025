@@ -35,7 +35,7 @@
 }
 
 .team-section .container {
-    max-width: 1200px;
+    max-width: 1400px;
 }
 
 .team-section .intro {
@@ -68,3 +68,17 @@ ul.type-none {
 .bg-gray {
     background-color: #f5f5f5;
 }
+
+.team-section .profile-image {
+    object-fit: cover;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+}
+
+.team-section .social a.orcid {
+    background: #a6ce39;
+  }
+  
+  .team-section .social a.orcid:hover {
+    background: #9cc332;
+  }
