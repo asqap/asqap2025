@@ -77,8 +77,14 @@ ul.type-none {
 
 .team-section .social a.orcid {
     background: #a6ce39;
-  }
+}
   
-  .team-section .social a.orcid:hover {
+.team-section .social a.orcid:hover {
     background: #9cc332;
-  }
+}
+
+.team-section span.color-highlight a {
+    text-decoration: none;
+    color: #40babd;
+    font-weight: bold;
+}
